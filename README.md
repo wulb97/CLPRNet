@@ -2,12 +2,13 @@
 
 ## MSLPD Dataset
   The format of label : [four vertices locations] [type] [license plate number]
-      type: 0 for blue plates
-            1 for yellow and single-line plates
-            2 for doble
-            3 for white
-            4 for green plates
-            5 for black plates
+
+      type: 0 for blue plates,
+            1 for yellow and single-line plates,
+            2 for doble,
+            3 for white,
+            4 for green plates,
+            5 for black plates,
 
  - [BaiduYun Drive(code: MSLP)](https://pan.baidu.com/s/19i4optk_yShoc-gzVDJEQw?pwd=MSLP)
 
